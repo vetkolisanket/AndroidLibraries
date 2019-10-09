@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidLibraries</string>
+    <string name="calendar_date_range_picker">Calendar Date Range Picker</string>
 </resources>
